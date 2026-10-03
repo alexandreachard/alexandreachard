@@ -12,7 +12,6 @@ Senior Platform Engineer building secure cloud foundations at enterprise scale.
 
 - **[lab](https://github.com/alexandreachard/lab)** — Infrastructure experiments, Terraform patterns, and cloud architecture prototypes
 - **[dell-cluster](https://github.com/alexandreachard/dell-cluster)** — GitOps-managed Kubernetes homelab with Flux, SOPS, and Kustomize
-- **[dotfiles](https://github.com/alexandreachard/dotfiles)** — Cross-platform engineering environment managed with Chezmoi and Mise
 
 ## Tech I Work With
 
