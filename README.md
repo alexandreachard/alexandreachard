@@ -24,10 +24,8 @@ Next step: Kubernetes and GitOps, learned hands-on in my homelab.
   infrastructure and network incidents
 
 ## In my homelab
-**[dell-cluster](https://github.com/alexandreachard/dell-cluster)**: a K3s cluster on
-Dell Optiplex nodes, fully managed from Git.
-Flux · Kustomize · SOPS/Age · Traefik · cert-manager · Cloudflare Tunnel ·
-Renovate · kube-prometheus-stack (also deployed on AKS during a course)
+**[k3s-gitops-homelab](https://github.com/alexandreachard/k3s-gitops-homelab)**: a single-node K3s
+cluster on a Dell Optiplex, fully managed from Git with Flux. Nothing applied by hand.
 
 **[lab](https://github.com/alexandreachard/lab)**: Terraform patterns, Kubernetes
 runbooks, PowerShell/Docker tools and snippets. A mix of work (sanitized),
@@ -42,4 +40,4 @@ personal experiments and exercises.
 
 ## Stack
 **Daily:** Terraform · Azure · GCP · S3NS · Scaleway · GitHub Actions · Docker · Linux · Bash · PowerShell · Git
-**Homelab:** Kubernetes (K3s, AKS) · Flux · Helm · Kustomize
+**Homelab:** Kubernetes (K3s) · Flux · Helm · Kustomize
