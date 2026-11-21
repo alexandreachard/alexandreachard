@@ -1,8 +1,9 @@
 # Hi, I'm Alexandre
 
-Senior Cloud & Platform Engineer. I've worked in systems and network
-infrastructure since 2009. Today I build and run cloud foundations
-on Azure, GCP, S3NS and Scaleway, almost entirely in Terraform.
+Senior Cloud & Platform Engineer with 15+ years in systems and network
+infrastructure. Today I build and run cloud foundations on Azure, GCP,
+S3NS and Scaleway, almost entirely in Terraform: my reusable modules cut
+environment provisioning from half a day to under 30 minutes.
 Next step: Kubernetes and GitOps, learned hands-on in my homelab.
 
 ## At work
@@ -10,7 +11,7 @@ Next step: Kubernetes and GitOps, learned hands-on in my homelab.
   management groups, subscriptions, IAM roles, managed identities, VNets/VPCs
 - **Reusable Terraform modules:** Container Apps & Environments, App Service Plans,
   VNets/subnets, Private Endpoints, Private DNS Zones, VMs, GCP MIGs behind load
-  balancers. Provisioning went from about half a day to under 30 minutes.
+  balancers.
 - **Generative AI platforms on Azure:** Container Apps, Azure OpenAI, AI Search,
   Private Endpoints. 5 production and 10+ development environments.
 - **CI/CD:** GitHub Actions for Terraform validate/plan/apply and container image delivery
@@ -27,9 +28,8 @@ Next step: Kubernetes and GitOps, learned hands-on in my homelab.
 **[k3s-gitops-homelab](https://github.com/alexandreachard/k3s-gitops-homelab)**: a single-node K3s
 cluster on a Dell Optiplex, fully managed from Git with Flux. Nothing applied by hand.
 
-**[lab](https://github.com/alexandreachard/lab)**: Terraform patterns, Kubernetes
-runbooks, PowerShell/Docker tools and snippets. A mix of work (sanitized),
-personal experiments and exercises.
+**[lab](https://github.com/alexandreachard/lab)**: Terraform patterns, experiments
+and runbooks from my day job (sanitized) and my K3s homelab.
 
 ## Next certifications
 - AZ-104 (Dec 2026), then AZ-305
