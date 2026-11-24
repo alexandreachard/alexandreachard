@@ -24,13 +24,6 @@ Next step: Kubernetes and GitOps, learned hands-on in my homelab.
 - **Run:** Azure Monitor, GCP Cloud Logging, Level 3 escalation for
   infrastructure and network incidents
 
-## In my homelab
-**[k3s-gitops-homelab](https://github.com/alexandreachard/k3s-gitops-homelab)**: a single-node K3s
-cluster on a Dell Optiplex, fully managed from Git with Flux. Nothing applied by hand.
-
-**[lab](https://github.com/alexandreachard/lab)**: Terraform patterns, experiments
-and runbooks from my day job (sanitized) and my K3s homelab.
-
 ## Next certifications
 - AZ-104 (Dec 2026), then AZ-305
 - Kubernetes certifications path: CKA next
